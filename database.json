@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "name": "Anurag Mk",
+      "email": "anurag@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "ramees",
+      "email": "ramees@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "shibin ali",
+      "email": "san@gmai.com",
+      "id": 4
+    },
+    {
+      "name": "toyota ",
+      "email": "toyota@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vishnu vishwanath",
+      "email": "vishnu@gmail.com",
+      "id": 7
+    }
+  ]
+}
