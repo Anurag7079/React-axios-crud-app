@@ -2,6 +2,7 @@
   "name": "react-axios-crud",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Anurag7079.github.io/React-axios-crud-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
