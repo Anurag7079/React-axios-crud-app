@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-axios-crud-app/static/css/main.ff02f4b5.css",
+    "main.js": "/React-axios-crud-app/static/js/main.005c1c64.js",
+    "static/js/453.79236aae.chunk.js": "/React-axios-crud-app/static/js/453.79236aae.chunk.js",
+    "index.html": "/React-axios-crud-app/index.html",
+    "main.ff02f4b5.css.map": "/React-axios-crud-app/static/css/main.ff02f4b5.css.map",
+    "main.005c1c64.js.map": "/React-axios-crud-app/static/js/main.005c1c64.js.map",
+    "453.79236aae.chunk.js.map": "/React-axios-crud-app/static/js/453.79236aae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.005c1c64.js"
+  ]
+}
